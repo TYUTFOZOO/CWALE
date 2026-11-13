@@ -1,3 +1,16 @@
+**Raw Data Preparation**
+
+Before running the program, download all six raw data archives:
+
+- `45WALE04.rar`
+- `45WALE06.rar`
+- `45WALE08.rar`
+- `CWALE04.rar`
+- `CWALE06.rar`
+- `CWALE08.rar`
+
+Extract each archive separately, then place all six extracted folders inside `code\CWALE_reproduction\raw_data`. Keep the original folder names and contents unchanged.
+
 # Run Figures 6 and 7
 
 Use Windows with Python 3.10 or newer added to PATH and Smokeview installed in its default location.
