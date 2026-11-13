@@ -1,3 +1,5 @@
+Download all reproduction files: https://github.com/TYUTF0ZOO/CWALE/releases/tag/v1.0
+
 **Raw Data Preparation**
 
 Before running the program, download all six raw data archives:
